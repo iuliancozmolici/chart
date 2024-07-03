@@ -1,1 +1,1 @@
-Chart project added
+Chart project (HTML + CSS + JS)
