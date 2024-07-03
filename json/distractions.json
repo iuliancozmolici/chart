@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Travel in Russia",
+      "id": 106,
+      "timestamp": "ONCE",
+      "date": "2023-06-25",
+      "description": "A small travel to Russia",
+      "amount": 1200.0,
+      "category": "Distractions"
+    },
+    {
+      "name": "Movie Ticket",
+      "id": 107,
+      "timestamp": "ONCE",
+      "date": "2023-06-10",
+      "description": "Watching a movie",
+      "amount": 150.0,
+      "category": "Distractions"
+    }
+  ]

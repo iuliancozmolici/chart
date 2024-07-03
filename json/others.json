@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Headset",
+      "id": 104,
+      "timestamp": "ONCE",
+      "date": "2023-06-03",
+      "description": "Bought a new headset",
+      "amount": 600.0,
+      "category": "Others"
+    },
+    {
+      "name": "Oil & Filter Change",
+      "id": 105,
+      "timestamp": "YEARLY",
+      "date": "2023-06-01",
+      "description": "Changing Oil and Filter",
+      "amount": 2500.0,
+      "category": "Others"
+    }
+  ]

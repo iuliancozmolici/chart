@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expenses</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/header.css">
+    <link rel="stylesheet" href="/css/expenses.css">
+</head>
+
+<body>
+
+    <main>
+        <header id="header">
+            <div id="navbar">
+                <img class="logo" src="/img/logo.png" alt="">
+                <div class="menu">
+                    <ul class="menu-inner">
+                        <li class="menu-item"><a href="#" class="menu-link">Expenses</a></li>
+                        <li class="menu-item"><a href="#" class="menu-link">Dashboard</a></li>
+                        <li class="menu-item"><a href="#" class="menu-link">Something</a></li>
+                        <li class="menu-item"><a href="#" class="menu-link">Something</a></li>
+                    </ul>
+                </div>
+                <i class="user-logo fa-regular fa-user"></i>
+            </div>
+        </header>
+    
+        <div class="container">
+            <div id="chart"></div>
+            <div class="display-info"></div>
+        </div>
+    </main>
+
+    <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5.4.2/dist/echarts.min.js"></script>
+    <script src="https://kit.fontawesome.com/8c75cc6df2.js" crossorigin="anonymous"></script>
+    <script src="/js/fillChart.js"></script>
+</body>
+
+</html>
